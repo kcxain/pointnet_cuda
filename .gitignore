@@ -1,0 +1,6 @@
+.vscode/
+epoch30
+*.h5
+torchview
+test
+data/
